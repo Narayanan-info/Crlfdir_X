@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/Narayanan-info/Redir_X/"><img src="Assets/image1.png" alt="Assets"></a>
   <br>
-  FuzzDir_X
+  Crlfdir_X
   <br>
 </h1>
 
