@@ -14,7 +14,9 @@ const banner = `
  ██║     ██╔══██╗██║     ██╔══╝  ██║  ██║██║██╔══██╗         ██╔██╗ 
  ╚██████╗██║  ██║███████╗██║     ██████╔╝██║██║  ██║███████╗██╔╝ ██╗
   ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  
-                                                     
+                Advance & Powerful CRLF Scanner
+                    By: Narayanan | @infops  
+                 Hackerone & Bugcroud | @infops                                  
 CRLF Bug Scanner
 `;
 
